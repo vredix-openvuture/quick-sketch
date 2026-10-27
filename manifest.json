@@ -1,0 +1,10 @@
+{
+  "id": "quick-sketch",
+  "name": "Quick Sketch",
+  "version": "0.0.0",
+  "minAppVersion": "1.6.0",
+  "description": "Draw in your notes with pen, touch or mouse, capture handwritten pages from other apps, and search your handwriting. Low-latency ink with pressure, endless, page and mind-map paper, a Sketch tab and a capture hub.",
+  "author": "vredix",
+  "authorUrl": "https://github.com/vredix-openvuture",
+  "isDesktopOnly": false
+}
